@@ -8,10 +8,10 @@ Bu servisi ücretsiz vermemin sebebi etrafta çok fazla kaçak film yayınlama s
 - [filmmax.org](https://filmmax.org)
 
 ### Kurulum
-- Öncelikle mysql'i bilgisayarınıza kurun.
+- Öncelikle [mysql](https://dev.mysql.com/downloads/mysql/)'i bilgisayarınıza kurun.
    - Eğer web versiyonunu kurduysanız yanına xampp kurun, ardından mysql ve phpMyAdmin'i başlatın.
 - Ardından aşağıda belirttiğim tablo kurma kodunu kullanın. bu size film tablosunu kurmanıza yarayacak.
-- Ardından eğer bilgisayarınızda [Python] yoksa kurun.
+- Ardından eğer bilgisayarınızda [Python(https://www.python.org/) yoksa kurun.
 - Ardından kodu bilgisayarınıza indirin.
 - Ardından konsola aşağıdaki komutu yazın.
 ```python
