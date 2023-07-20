@@ -4,6 +4,9 @@
 Projenin amacı belirtilen websitelerinin belirtilen kategorilerinde istediğiniz gibi Film verilerini çekebilmenizdir.
 Bu servisi ücretsiz vermemin sebebi etrafta çok fazla kaçak film yayınlama sitesi olduğundan dolayıdır.
 
+## Örnek Kullanım
+<video src="examples/Windows PowerShell 2023-07-20 03-24-49.mp4"></video>
+
 ## Desteklenen Websiteleri:
 - [filmmax.org](https://filmmax.org)
 
