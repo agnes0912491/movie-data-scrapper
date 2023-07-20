@@ -3,10 +3,7 @@
 ## Projenin Amacı
 Projenin amacı belirtilen websitelerinin belirtilen kategorilerinde istediğiniz gibi Film verilerini çekebilmenizdir.
 Bu servisi ücretsiz vermemin sebebi etrafta çok fazla kaçak film yayınlama sitesi olduğundan dolayıdır.
-
-## Örnek Kullanım
-<video src="https://github.com/anisu2789/movie-data-scrapper/blob/main/examples/Windows%20PowerShell%202023-07-20%2003-24-49.mp4"></video>
-
+ 
 ## Desteklenen Websiteleri:
 - [filmmax.org](https://filmmax.org)
 
