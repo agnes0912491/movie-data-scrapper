@@ -1,0 +1,1 @@
+datetime, requests, asyncio, mysql, tmdb, bs4, tqdm, omdbapi
