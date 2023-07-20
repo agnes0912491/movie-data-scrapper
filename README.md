@@ -22,6 +22,20 @@ pip install -r requirements.txt
 python index.py
 ```
 
+### Film Tablosu Oluşturma
+Aşağıdaki sql komutunu çalıştırırsanız tablonuz oluşturulacaktır.
+```sql
+CREATE TABLE Film (
+ film_id INT AUTO_INCREMENT PRIMARY KEY;
+ film_adi varchar(300) 
+ film_kategoriler json 
+ film_yuklemeler json 
+ film_yayin_tarihi date 
+ film_eklenme_tarihi timestamp 
+ film_aciklamasi varchar(1000)
+)
+```
+
 Eklenmesini istediğiniz websiteleri varsa pull request açarak belirtebilirsiniz.
 
 Anisu2789
