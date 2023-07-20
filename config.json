@@ -1,0 +1,8 @@
+{
+    "tmdb_api_key": "",
+    "omdb_api_key": "",
+    "db_host": "localhost",
+    "db_user": "root",
+    "db_password": "",
+    "db_name": ""
+}
