@@ -38,4 +38,4 @@ CREATE TABLE Film (
 
 Eklenmesini istediğiniz websiteleri varsa pull request açarak belirtebilirsiniz.
 
-Anisu2789
+- A.Ö
